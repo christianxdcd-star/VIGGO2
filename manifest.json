@@ -1,0 +1,9 @@
+{
+  "name": "VIGGO",
+  "short_name": "VIGGO",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#000000",
+  "icons": []
+}
